@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #5e5e5e;
+    margin: 0;
+    padding: 0;
+    font-family:Arial, Helvetica, sans-serif, roboto;
+}
+.col-md-6{
+    margin: 0;
+    padding: 0;
+}
+.bg-success{
+ background-color: #C8E9EB !important;
+}
+.container{
+    background-color: #ffffff;
+    width: 70%;
+}
+.avatar{
+    background-image: linear-gradient(#0D9EA6, #C8E9EB);
+    border-radius: 0px 60% 80% 30% / 20% 36% 10% 30%;
+    width: 280px;
+    height: 280px;
+    
+}
+.avatar img{
+    margin-top: 70px;
+    margin-left: 80px;
+    width: 150px;
+    border: 8px #fff solid;
+    border-radius: 50%;
+}
+.full-name{
+    font-size: 32px;
+}
+.position{
+    font-size: 15px;
+    color: #0D9EA6;
+}
+.infor{
+    border-radius: 20px;
+    margin-right: 30px;
+    width: 450px ;
+}
+.icon{
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    background-color: #0D9EA6;
+    margin-top: 5px;
+}
+.career_goals{
+    margin-top: 25px;
+}
+.career_goals strong{
+    font-size: 50px;
+    color: #999999;
+}
+.career_goals h6{
+    margin-top:-30px;
+}
+.main{
+    justify-content: space-between;
+}
+.main__item__shape{
+    margin-bottom: 20px;
+}
+.shape__left{
+    width: 5px;
+    height: 32px;
+    background-color: #0D9EA6;
+}
+.shape__right{
+    width: 272px;
+    height: 32px;
+    background-color: #0D9EA6;
+    border-radius: 0px 40px 40px 0px;
+}
+.main__item{
+    width: 400px;
+}
+.skillrate_bar{
+    width: 290px;
+    height: 6px;
+    background-color: #929292;
+}
+.skillrate_value{
+    width: 232px;
+    height: 6px;
+    background-color: #0D9EA6;
+}
+#skillrate_value_3sao{
+    width: 174px;
+    background-color: #0D9EA6;
+}
+#skillrate_value_2sao{
+    width: 116px;
+    background-color: #0D9EA6;
+}
